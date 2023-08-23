@@ -51,7 +51,7 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 
 
 <img
-	src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNWubYvN54svRySP-SILzYHy1FXZW8Mh-udg&usqp=CAU"
+	src="https://w7.pngwing.com/pngs/589/283/png-transparent-good-things-take-time-calligraphy-quotation-motivation-patience-love-time-quotes-love-text-logo-thumbnail.png"
 	width="350px"
 	height="200px"
 	align="right"
