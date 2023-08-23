@@ -52,7 +52,7 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 
 <img
 	src="https://image.space.rakuten.co.jp/lg01/67/0000018067/19/imgc3f86666dkwy8c.gif"
-	width="200px"
+	width="350px"
 	height="200px"
 	align="right"
 />
