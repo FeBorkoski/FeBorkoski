@@ -51,7 +51,7 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 
 
 <img
-	src="https://www.creativefabrica.com/wp-content/uploads/2020/07/02/Good-Things-Take-Time-Vector-Graphics-4526375-1.png"
+	src="https://www.creativefabrica.com/wp-content/uploads/2020/05/09/Good-Things-Take-Time-Graphics-4075315-2-312x208.png"
 	width="350px"
 	height="200px"
 	align="right"
