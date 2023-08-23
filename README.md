@@ -49,3 +49,16 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 <a href="https://instagram.com/feborkoski" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/feborkoski" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+<img
+	src="https://github.com/solrachix/Proffy/blob/master/.github/adornment-5.png?raw=true"
+	width="200px"
+	height="160px"
+	align="right"
+/>
+
+### <i>Frases que eu digo para mim mesmo</i> 🚀
+
+ - ***Se você pode sonhar, você pode alcançar.***
+ - ***Algo só é impossível até que seja feito.***
+ - ***Tudo que um homem pode fazer, o outro também pode.***
+ - ***Que homem é o homem que não faz o mundo melhor.***
