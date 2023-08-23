@@ -3,7 +3,7 @@
 ### Sobre mim
 
 💻 Eu sou um desenvolvedor Front-End | Back-End.
-  <img align="right" alt="minha imagem" width="210" src="https://i.imgur.com/8MupZHY.gif" width="300px" />
+  <img align="right" alt="minha imagem" width="250" src="https://i.imgur.com/8MupZHY.gif" width="350px" />
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
