@@ -3,7 +3,7 @@
 ### Sobre mim
 
 💻 Eu sou um desenvolvedor Front-End | Back-End.
-<img align="right" alt="code" width="210" src="https://media.discordapp.net/attachments/929899914836738061/1105261250348339370/ffbb0050d9b94168ebe7dd8a7d09374a.gif">
+[<img align="right" alt="code" width="210" src="https://media.discordapp.net/attachments/929899914836738061/1105261250348339370/ffbb0050d9b94168ebe7dd8a7d09374a.gif">](https://camo.githubusercontent.com/7b74c6396b4fe40895b2d3da58b95e97abbd2e15c5ef58be30e954fc1b059da8/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966)
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
