@@ -52,9 +52,9 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 
 ### <i>Frases que eu digo para mim mesmo</i> 🚀
 
-"Pequenos passos levam a grandes conquistas."
-"Acredite em si mesmo, você é mais forte do que imagina."
-"A jornada pode ser difícil, mas a vitória é sempre gratificante."
-"Persista hoje, para colher os frutos amanhã."
+- ***"Pequenos passos levam a grandes conquistas."***
+- ***"Acredite em si mesmo, você é mais forte do que imagina."***
+- ***"A jornada pode ser difícil, mas a vitória é sempre gratificante."***
+- ***"Persista hoje, para colher os frutos amanhã."***
 </div>
 
