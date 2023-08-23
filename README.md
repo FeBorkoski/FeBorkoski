@@ -3,10 +3,9 @@
 ### Sobre mim
 
 💻 Eu sou um desenvolvedor Front-End | Back-End.
-
+<img align="right" alt="minha imagem" width="210" src="https://media.discordapp.net/attachments/929899914836738061/1105261250348339370/ffbb0050d9b94168ebe7dd8a7d09374a.gif">
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
-<img align="right" alt="minha imagem" width="210" src="https://media.discordapp.net/attachments/929899914836738061/1105261250348339370/ffbb0050d9b94168ebe7dd8a7d09374a.gif">
 🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End [Cubos Academy](https://cubos.academy/)
 
 ✒️ Eu gosto de no meu tempo livre dormir muito.
