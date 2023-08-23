@@ -51,7 +51,7 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 
 
 <img
-	src="https://i.pinimg.com/1200x/44/29/68/44296883d8b36096766ddf24189732da.jpg"
+	src="https://www.seekpng.com/png/full/945-9451489_good-things-take-time-vinyl-sticker.png"
 	width="350px"
 	height="200px"
 	align="right"
