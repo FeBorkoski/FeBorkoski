@@ -51,7 +51,7 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 
 
 <img
-	src="https://image.space.rakuten.co.jp/lg01/67/0000018067/19/imgc3f86666dkwy8c.gif"
+	src="https://p7.hiclipart.com/preview/825/576/42/monkey-d-luffy-nami-roronoa-zoro-usopp-vinsmoke-sanji-goodbye.jpg"
 	width="350px"
 	height="200px"
 	align="right"
